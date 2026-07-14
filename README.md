@@ -34,7 +34,7 @@ The application focuses on simplifying configuration changes while creating back
 
 ## 📸 Screenshots
 
-![photo]()
+![photo](assets/1234.png)
 
 ---
 
